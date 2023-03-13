@@ -1,4 +1,4 @@
-from FourPart.Four_Part import FourPart
+from Four_Part import FourPart
 import json
 import sys
 
